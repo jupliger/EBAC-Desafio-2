@@ -2,6 +2,7 @@
 body{
      background-color: #70c6c7;
      display: flex;
+     justify-content: center;
           
 }
 
@@ -11,8 +12,9 @@ body{
      flex-wrap: wrap;
      background-color: #00204A;
      color: #D6DBDF;
-     margin: 32px 0px 32px 130px;
-     height:1
+     height:1;
+     margin-top:35px;
+     margin-bottom:35px;
 
 }
 
@@ -119,7 +121,9 @@ body{
      flex-direction: column;  
      background: #4B6982;
      border-radius: 0px 60px 0px 0px;
-     margin: 32px 130px 32px 0px;
+     width: 70%;
+     margin-top:35px;
+     margin-bottom:35px;
 }
 
 .principalContainer-about{
