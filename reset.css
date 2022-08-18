@@ -24,6 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 	font-family: 'Roboto', sans-serif;
 	font-weight: light;
+	text-decoration: none;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -33,7 +34,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-ol, ul {
+ol {
 	list-style: none;
 }
 blockquote, q {
